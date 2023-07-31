@@ -5,7 +5,7 @@
 
 ## Documentation
 
-API documentation is available at <https://docs.developers.optimizely.com/web-experimentation/docs/rest-api-introduction>.
+API documentation is available at <optimizely-eleanor.docs.buildwithfern.com>.
 
 ## Usage
 
